@@ -1,0 +1,79 @@
+
+
+body {
+    margin: 0;
+    font-family: 'Sophia';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: Sophia;
+  }
+  
+  .app {
+    background: #FFDEAD;
+    padding: 30px;
+    height: 100vh;
+  }
+  
+  .todo-list {
+    background: #E6E6FA;
+    border-radius: 4px;
+    padding: 5px;
+    max-width: 400px;
+  }
+  
+  .todo {
+    background: #fff;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+    padding: 10px;
+    font-size: 24px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  
+  .input {
+    width: 100%;
+    box-sizing: border-box;
+    border: 0;
+    border-radius: 4px;
+    box-shadow: none;
+    padding: 1rem;
+    height: 2.25em;
+    font-size: 24px;
+    font-family: Sophia;
+  }
+  
+  h1 {
+    font-family: 'Sophia';
+    font-size: 30px;
+    color: #20B2AA;
+    justify-content: center;
+  }
+  
+  .custom-button {
+    display: block; /* Change the display to block */
+    background-color: #20b2aa;
+    color: #fffacd;
+    font-family: 'Sophia';
+    font-size: 18px;
+    padding: 25px;
+    border: none;
+    cursor: pointer;
+    margin: 0 auto; /* Center-align the button horizontally */
+    border-radius: 10px; /* Create a rectangle shape with rounded corners */
+    width: 100%; /* Set the width to 100% of its parent container */
+  }
+  
+  .custom-button:hover {
+    opacity: 0.8;
+  }
+
+  
+  
+  
