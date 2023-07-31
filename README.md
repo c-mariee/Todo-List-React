@@ -1,7 +1,7 @@
 # Todo-List-React
 ![Todo List](https://github.com/c-mariee/Todo-List-React/assets/130301864/42ccc6dc-1002-4cb9-bf97-c19c4d463dee)
 
-Sobre Este Proyecto: 
+**Sobre Este Proyecto: **
 
 Creamos una lista para hacer en la clase y después yo tenía la oportunidad para ser más creativa y yo creé la lista con lo siguiente: 
 
